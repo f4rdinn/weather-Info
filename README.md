@@ -14,8 +14,4 @@ Simulates live weather updates, including temperature, humidity, wind speed, and
 ## Why Use This?
 Perfect for developers or Linux enthusiasts who want a **visually appealing, API-free weather dashboard** in the terminal. Great for learning Bash scripting, ASCII art, and terminal-based UI design.
 
-## Installation
-```bash
-git clone https://github.com/YourUsername/weather-dashboard.git
-cd weather-dashboard
-chmod +x weather.sh
+
